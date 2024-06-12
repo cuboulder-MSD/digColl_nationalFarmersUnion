@@ -133,5 +133,5 @@ For more information about this collection visit the webpage at the CU Boulder A
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 ## Metadata Versions
-[Also include notes about metadata versions uploaded to Github. For example, the date and a brief description of the change in metadata from its previous version.]
+National_Farmers_Union_Collec_20240611115041.csv: [First version, date added 6-12-2024]
 
