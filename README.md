@@ -3,7 +3,6 @@ This collection contains motion picture film and video recordings created and co
 
 Permanent address to digital collection: [https://doi.org/10.60807/e0ga-ee77](https://doi.org/10.60807/e0ga-ee77).<br /> 
 Please use the same link when sharing or citing the collection.
-Current Extended MODS Metadata Schema
 
 ## Metadata
 ### Collection Name
