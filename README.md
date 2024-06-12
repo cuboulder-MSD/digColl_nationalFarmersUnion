@@ -1,5 +1,6 @@
 ## Description
 This collection contains motion picture film and video recordings created and collected by the National Farmers Union (1950s-1990s) and by Green Thumb Inc. (1970s-1990s), a program sponsored by the National Farmers Union (NFU) to promote employment opportunities for older workers, often in rural areas. The collection includes public service announcements and promotional videos about NFU and Green Thumb programs, recordings of NFU conventions and political speeches, and other films and videos on issues of interest to global and domestic farmers and farm owners. 
+
 Permanent address to digital collection: [https://doi.org/10.60807/e0ga-ee77](https://doi.org/10.60807/e0ga-ee77).<br /> 
 Please use the same link when sharing or citing the collection.
 Current Extended MODS Metadata Schema
